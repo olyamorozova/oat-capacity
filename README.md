@@ -11,7 +11,7 @@ and
 
 # Citation 
 
-Morozova O., Crawford F.W., Cohen T., Paltiel A.D., Altice F.L. Cost-effectiveness of expanding the capacity of opioid agonist treatment in Ukraine: Dynamic modeling analysis. _Addiction_ 2019; in press. 
+Morozova O., Crawford F.W., Cohen T., Paltiel A.D., Altice F.L. Cost-effectiveness of expanding the capacity of opioid agonist treatment in Ukraine: Dynamic modeling analysis. _Addiction_ 2020; 115(3): 437-450. 
 
 # How to run the code
 
